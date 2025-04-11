@@ -13,5 +13,5 @@ A clean, responsive, and visually appealing login form built using only HTML and
 - No JavaScript – lightweight and fast
 
 ## 📸 Preview
-
+![Login Form Screenshot](Preview.png)
 
