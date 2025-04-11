@@ -1,6 +1,6 @@
 # 🔐 Simple & Elegant Login Form
 
-A clean, responsive, and visually appealing login form built using only HTML and CSS. This component includes a username and password field, a "Remember Me" checkbox, a "Forgot Password?" link, and a registration prompt.
+A clean, responsive, and visually appealing login form built using only HTML and CSS
 
 ## ✨ Features
 
